@@ -13,7 +13,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ProfessionalMG&theme=dark)
 
 ## 💻 Most Used Languages
 
